@@ -1,3 +1,5 @@
+@import url("mod.css");
+
 * {
   padding: 0;
   margin: 0;
@@ -224,13 +226,5 @@ input.fielderror, textarea.fielderror {
     width: 50px;
     float: left; }
 
-.notifications-menu {
-  padding: 0 0 0 20px; }
-  .notifications-menu .page {
-    font-weight: bold; }
-
 .notifications .notification {
-  list-style: none;
   margin: 20px 0 15px 20px; }
-  .notifications .notification .reply {
-    font-size: 0.8em; }
